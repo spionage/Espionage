@@ -13,6 +13,6 @@ Executing these scripts using a decentralised platform ensues fairness, tranpare
 ### Tech Stack
 * Python
 * Linux Bash
-* Rust
+* Rust / Go
 * Selected blockchain infrastructure
 * Machine learning framework

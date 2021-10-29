@@ -1,0 +1,7 @@
+Hard Drive Info
+Number FriendlyName       SerialNumber     MediaType CanPool OperationalStatus HealthStatus Usage            Size
+------ ------------       ------------     --------- ------- ----------------- ------------ -----            ----
+0      ST2000LM007-1R8174 ZDZ3MBKG         HDD       False   OK                Healthy      Auto-Select   1.82 TB
+1      AITC FM250 256GB   2107U0511A000064 SSD       False   OK                Healthy      Auto-Select 238.47 GB
+
+
